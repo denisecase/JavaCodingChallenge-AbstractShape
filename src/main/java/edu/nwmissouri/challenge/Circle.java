@@ -1,11 +1,14 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
 package edu.nwmissouri.challenge;
 
 /**
- * A Circle extends AbstractShape.
  *
+ * @author Rohan Reddy Kondaveeti
  */
 public class Circle extends AbstractShape {
-
     // private attribute
     double radius;
 
@@ -44,3 +47,6 @@ public class Circle extends AbstractShape {
     }
 
 }
+
+    
+
